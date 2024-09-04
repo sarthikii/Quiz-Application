@@ -1,2 +1,2 @@
 # Quiz-Application
-Quix Application
+
